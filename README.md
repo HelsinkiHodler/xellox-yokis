@@ -2,7 +2,7 @@
 
 **Xellox Yokis** is a professional-grade seed phrase backup kit designed to keep your Bitcoin recovery words safe from fire, water, and physical damage. Built for long-term cold storage and true Bitcoin self-custody.
 
-<img src="./xellox-yokis-kit-seed-backup-engraver.png" alt="Xellox Yokis Kit – triple steel plates and engraver" title="Xellox Yokis Kit – triple steel plates and electric engraver for Bitcoin seed backup" width="700" />
+<img src="./xellox-yokis-kit-seed-backup-engraver.png" alt="Xellox Yokis Kit – triple steel plates and engraver" title="Xellox Yokis Kit – triple steel plates and engraver" width="600"/>
 
 ## 🔐 What's in the Box
 
@@ -26,5 +26,11 @@ Yokis was built for Bitcoiners who understand that **not your keys means not you
 ## 🔗 Useful Links
 
 - 🌐 [Product page](https://www.xellox.io/yokis/)
-- 🛍️ [Buy Yokis kit](https:)
+- 🛍️ [Buy Yokis kit](https://www.xellox.io/product/yokis/)
+- 🤝 [Support](https://www.xellox.io/support/)
+- 💡 [Geyser Fundraising Project](https://geyser.fund/project/clavis)
 
+## 📄 License
+
+MIT License  
+Copyright (c) 2025 Xellox
