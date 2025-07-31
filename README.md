@@ -6,7 +6,7 @@
 
 ## 🔐 What's in the Box
 
-- 3× bulletproof-grade stainless steel seed plates  
+- 3× bulletproof-grade 404 stainless steel seed plates  
 - 1× precision electric engraver (USB rechargeable)  
 - Durable carrying case and safety gear  
 
